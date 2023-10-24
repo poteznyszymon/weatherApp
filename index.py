@@ -29,7 +29,7 @@ window = ttk.Window()
 window.title("WeatherApp")
 window.geometry('550x120')
 
-#
+# icon
 icon = tk.PhotoImage(file='icon.png')
 window.iconphoto(False, icon)
 
