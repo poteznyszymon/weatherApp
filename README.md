@@ -1,2 +1,2 @@
 # weatherApp
-Simple gui python app using open weather api 
+Simple python app using tkinter as gui and open weather api for weather current weather informations.
