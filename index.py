@@ -5,7 +5,7 @@ import requests
 def show_weather(event):
     # api config
     baseUrl = 'http://api.openweathermap.org/data/2.5/weather?'
-    key = '' #place your api key here!
+    key = '' #place your api key here!!!
     city = cityVar.get()
     
     # final api url
